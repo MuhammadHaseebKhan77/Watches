@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "product-image-572494513_grande_19cf6863-35f6-4607-82c9-99a2abf356f1_grande.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "product-image-572494513_grande_19cf6863-35f6-4607-82c9-99a2abf356f1_grande@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "product-image-572494513_grande_19cf6863-35f6-4607-82c9-99a2abf356f1_grande@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
